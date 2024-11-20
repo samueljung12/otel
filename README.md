@@ -1,13 +1,13 @@
 # Welcome!
 
-This is a sandbox exercise where we will compare how APM traces look like when instrumented with Otel SDK vs. DD Agent/tracer
+## This is a sandbox exercise where we will compare how APM traces look like when instrumented with Otel SDK vs. DD Agent/tracer
 
-The application is composed of a frontend and backend.
+### The application is composed of a frontend and backend.
 
-Frontend:
+### Frontend:
 - React JS application
 
-Backend:
+### Backend:
 - Python Flask application
 
 Both the frontend and backend are spun up in a docker compose network and therefore are able to communicate easily. 
